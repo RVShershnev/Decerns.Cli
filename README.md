@@ -11,4 +11,4 @@ Once the evaluations are complete, MCDA provides a systematic way to aggregate t
 MCDA can help decision-makers to structure complex problems, consider multiple perspectives, and make informed and transparent decisions. However, it requires careful consideration of the criteria and weights, as well as the assumptions and uncertainties underlying the evaluations. Additionally, MCDA does not provide a definitive answer, but rather a set of options that meet different objectives to varying degrees.
 
 # Example
-![Architecture Decision Record for Group Decision Making Context](https://github.com/RVShershnev/Architecture-Decision-Record-for-Group-Decision-Making-Context)
+[Architecture Decision Record for Group Decision Making Context](https://github.com/RVShershnev/Architecture-Decision-Record-for-Group-Decision-Making-Context)
