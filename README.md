@@ -9,3 +9,6 @@ In MCDA, decision-makers identify a set of criteria that are relevant to the dec
 Once the evaluations are complete, MCDA provides a systematic way to aggregate the scores and determine the overall ranking of the alternatives. There are several methods to aggregate the scores, such as simple additive weighting, weighted sum, and multi-attribute utility theory.
 
 MCDA can help decision-makers to structure complex problems, consider multiple perspectives, and make informed and transparent decisions. However, it requires careful consideration of the criteria and weights, as well as the assumptions and uncertainties underlying the evaluations. Additionally, MCDA does not provide a definitive answer, but rather a set of options that meet different objectives to varying degrees.
+
+# Example
+!(Architecture Decision Record for Group Decision Making Context)[https://github.com/RVShershnev/Architecture-Decision-Record-for-Group-Decision-Making-Context]
